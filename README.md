@@ -9,8 +9,8 @@ Welcome to my corner of the internet! I'm a passionate **Android App Developer**
 - 🌱 **I’m currently learning**: Advanced Firebase integrations, AI/ML concepts for mobile apps, and improving my skills in Kotlin.  
 - 💞️ **I’m looking to collaborate on**: Android app projects, hackathons, and open-source tools.  
 - 📫 **How to reach me**:  
-  - Email: moarokOp@yahoo.com](mailto:moarokOp@yahoo.com)  
-  - LinkedIn: [linkedin.com/in/mobarok-hossain](https://linkedin.com/in/mobarokOP)  
+  - Email: mobarokop@yahoo.com](mailto:mobarokop@yahoo.com)  
+  - LinkedIn: [linkedin.com/in/mobarokOP](https://linkedin.com/in/mobarokOP)  
   - YouTube: [Coding with Mobarok](https://www.youtube.com/@mobarok_OP)  
 - 😄 **Pronouns**: He/Him  
 - ⚡ **Fun fact**: I was inspired by Facebook to dive into Android development and have completed over 200 projects since then!  
