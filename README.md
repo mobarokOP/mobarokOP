@@ -10,8 +10,8 @@ Welcome to my corner of the internet! I'm a passionate **Android App Developer**
 - 💞️ **I’m looking to collaborate on**: Android app projects, hackathons, and open-source tools.  
 - 📫 **How to reach me**:  
   - Email: moarokOp@yahoo.com](mailto:moarokOp@yahoo.com)  
-  - LinkedIn: [linkedin.com/in/mobarok-hossain](https://linkedin.com/in/mobarok-hossain)  
-  - YouTube: [Coding with Mobarok](https://www.youtube.com/@CodingWithMobarok)  
+  - LinkedIn: [linkedin.com/in/mobarok-hossain](https://linkedin.com/in/mobarokOP)  
+  - YouTube: [Coding with Mobarok](https://www.youtube.com/@mobarok_OP)  
 - 😄 **Pronouns**: He/Him  
 - ⚡ **Fun fact**: I was inspired by Facebook to dive into Android development and have completed over 200 projects since then!  
 
@@ -41,17 +41,17 @@ Welcome to my corner of the internet! I'm a passionate **Android App Developer**
 
 ## 🎥 Featured YouTube Content  
 
-🎥 **[Daily Android Problem-Solving](https://www.youtube.com/@CodingWithMobarok)**  
-💡 **[Java for Beginners Tutorial Series](https://www.youtube.com/@CodingWithMobarok)**  
+🎥 **[Daily Android Problem-Solving](https://www.youtube.com/@mobarok_OP)**  
+💡 **[Java for Beginners Tutorial Series](https://www.youtube.com/@mobarok_OP)**  
 
 ---
 
 ## 💬 Let's Connect  
 
-💼 **Portfolio Website**: [mobarokportfolio.com](https://mobarokportfolio.com)  
+💼 **Portfolio Website**: [Mobarok Hossain](https://mobarokop.github.io)  
 🌐 **Social Media**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mobarok-hossain)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodingWithMobarok)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mobarokOP)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mobarok_OP)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mobarokOP)  
 
 ---
