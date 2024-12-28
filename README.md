@@ -53,25 +53,37 @@ Welcome to my GitHub! I'm a **professional Android App Developer** with over 3 y
 
 ## 🏆 Featured Projects  
 
-### 📱 **Namaz Shikha App**  
-An educational app that simplifies learning Namaz and Quran with interactive features.  
-🌟 **Features**:  
-- Step-by-step Namaz guides  
-- Learn Quran with audio & text  
-- Beginner-friendly Arabic vocabulary  
+### 📱 **বোর্ড বই ২০২৪(১ম - দশম শ্রেণি)**  
+An educational app that simplifies Reading Bangladeshi Book with interactive features.  
+🌟 **How to Use: -**:  
+➽ First of all, you will get all class 3-10 offline books.
+➽ This application has a page where you will get to know one interesting scientific fact every day.
+➽ Easy and Simple Listing View.
+➽ Get Notification When Add Daily new book.
+➽ This app also contains a stopwatch to determine the reading time challenge.
+➽ And if you want to make a quick note for something you are reading, don't worry. App also has notepad inside it for your favor.
+➽ Also, if you need a calculator when doing math, you can find a built-in calculator. Which you can open calculate and close without disrupting or closing the page which you were reading.
+➽ You can also see you class 3-10 result with this app.
 
-[![View on Play Store](https://img.shields.io/badge/View_on_Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mobarok.namazshikha)  
+[![View on Play Store](https://img.shields.io/badge/View_on_Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.loveit.nctballmainbook)  
 
 ---
 
-### 📱 **Style Your Name - Facebook VIP Name Generator**  
-A creative app for generating stylish Facebook names with unique fonts and emojis.  
-🌟 **Features**:  
-- Multiple font styles  
-- Emoji integrations  
-- Easy sharing options  
+### 📱 **আল-কুরআন**  
+A creative app for Learning and Reading Al Quran.  
+🌟 **❏ অ্যাপসটির ভিতরে বিষয় সমূহ:**:  
+✤ আল কুরআনে ১১৪ সূরা।
+✤ আল-কোরআন বাংলা অর্থ ও উচ্চারণ এবং অডিও সহ।
+✤ পছন্দের সূরা বা আয়াত বুকমার্ক করে রাখা যাবে।
+✤ সূরা হাশরের শেষ তিন আয়াত।
+✤ তওবা ও এস্তেগফার।
+✤ আল্লাহর ৯৯ নাম।
+✤ দোয়া ইউনুস।
+✤ এসমে আযম।
+✤ তাসবিহ।
+✤ সূরা, আয়াত, উচ্চারন কপি ও শেয়ার করা যাবে। 
 
-[![View on Play Store](https://img.shields.io/badge/View_on_Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mobarok.styleyourname)  
+[![View on Play Store](https://img.shields.io/badge/View_on_Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.sabingstore.alquranbangla)  
 
 ---
 
